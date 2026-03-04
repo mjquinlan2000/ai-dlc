@@ -1269,6 +1269,8 @@ Your main working directory stays clean on the main branch.
 
 ### If PR/MR for review:
 
+**IMPORTANT:** Do NOT include "Closes", "Fixes", or "Resolves" issue references in the PR body. This is a spec review PR — merging it must not auto-close the linked issue. The issue stays open until construction is complete.
+
 1. Push the intent branch to remote:
 
 ```bash
