@@ -1,5 +1,5 @@
 ---
-status: pending
+status: completed
 depends_on: [unit-06-ai-dlc-integration, unit-07-haiku-website]
 branch: ai-dlc/methodology-evolution/08-ai-dlc-updates
 discipline: documentation

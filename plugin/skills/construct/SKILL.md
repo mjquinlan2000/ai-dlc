@@ -475,7 +475,7 @@ elif [ -n "$CLAUDE_PLUGIN_ROOT" ] && [ -f "${CLAUDE_PLUGIN_ROOT}/hats/${HAT_NAME
   HAT_FILE="${CLAUDE_PLUGIN_ROOT}/hats/${HAT_NAME}.md"
 fi
 
-# Extract instructions (content after second --- in frontmatter)
+# Extract instructions (content after second — in frontmatter)
 HAT_INSTRUCTIONS=""
 if [ -n "$HAT_FILE" ]; then
   HAT_INSTRUCTIONS=$(sed '1,/^---$/d' "$HAT_FILE" | sed '1,/^---$/d')

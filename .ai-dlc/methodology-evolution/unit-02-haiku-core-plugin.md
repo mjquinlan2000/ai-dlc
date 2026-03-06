@@ -1,5 +1,5 @@
 ---
-status: pending
+status: completed
 depends_on: [unit-01-haiku-foundation]
 branch: ai-dlc/methodology-evolution/02-haiku-core-plugin
 discipline: backend

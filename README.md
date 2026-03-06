@@ -1,6 +1,6 @@
 # HAIKU
 
-**Human AI Knowledge Unification** --- a universal framework for structured human-AI collaboration across any domain.
+**Human AI Knowledge Unification** — a universal framework for structured human-AI collaboration across any domain.
 
 HAIKU provides a disciplined, phase-driven methodology that governs how humans and AI systems collaborate to move from intent to outcome. Like the poetic form it draws its name from, HAIKU achieves clarity through constraint.
 
@@ -23,9 +23,9 @@ website/          # Project website
 
 HAIKU is domain-agnostic. Domain-specific behavior is provided by profiles:
 
-- **AI-DLC** --- Software development (git, tests, PRs, CI/CD)
-- **SWARM** --- Marketing and sales (Scope, Workstreams, Accountability, Results, Memory)
-- **Custom** --- Organizations define profiles for any domain
+- **AI-DLC** — Software development (git, tests, PRs, CI/CD)
+- **SWARM** — Marketing and sales (Scope, Workstreams, Accountability, Results, Memory)
+- **Custom** — Organizations define profiles for any domain
 
 ## Getting Started
 
